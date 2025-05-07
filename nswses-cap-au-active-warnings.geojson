@@ -14,324 +14,6 @@
                 "coordinates": [
                     [
                         [
-                            145.55102332,
-                            -29.7194194
-                        ],
-                        [
-                            145.51146164,
-                            -29.66673509
-                        ],
-                        [
-                            145.50271966,
-                            -29.67079245
-                        ],
-                        [
-                            145.48418451,
-                            -29.67626691
-                        ],
-                        [
-                            145.45729873,
-                            -29.68421898
-                        ],
-                        [
-                            145.42540587,
-                            -29.70161318
-                        ],
-                        [
-                            145.42237903,
-                            -29.74307454
-                        ],
-                        [
-                            145.41563492,
-                            -29.74429366
-                        ],
-                        [
-                            145.4124474,
-                            -29.74421613
-                        ],
-                        [
-                            145.41176414,
-                            -29.76009561
-                        ],
-                        [
-                            145.41324878,
-                            -29.760158
-                        ],
-                        [
-                            145.41670186,
-                            -29.76170785
-                        ],
-                        [
-                            145.40555825,
-                            -29.79620753
-                        ],
-                        [
-                            145.41009366,
-                            -29.83382069
-                        ],
-                        [
-                            145.38426189,
-                            -29.90788374
-                        ],
-                        [
-                            145.3568113,
-                            -29.97052812
-                        ],
-                        [
-                            145.3552892,
-                            -30.00742598
-                        ],
-                        [
-                            145.39632118,
-                            -30.09809188
-                        ],
-                        [
-                            145.34394772,
-                            -30.18264149
-                        ],
-                        [
-                            145.31781436,
-                            -30.21553945
-                        ],
-                        [
-                            145.30141698,
-                            -30.23603443
-                        ],
-                        [
-                            145.30116158,
-                            -30.23635365
-                        ],
-                        [
-                            145.30116469,
-                            -30.23635344
-                        ],
-                        [
-                            145.30116797,
-                            -30.23634757
-                        ],
-                        [
-                            145.30821287,
-                            -30.23587004
-                        ],
-                        [
-                            145.31160356,
-                            -30.23579097
-                        ],
-                        [
-                            145.31160526,
-                            -30.23579093
-                        ],
-                        [
-                            145.31274263,
-                            -30.23427448
-                        ],
-                        [
-                            145.31916911,
-                            -30.22601206
-                        ],
-                        [
-                            145.33592096,
-                            -30.21371549
-                        ],
-                        [
-                            145.3494682,
-                            -30.21425026
-                        ],
-                        [
-                            145.34947453,
-                            -30.2142475
-                        ],
-                        [
-                            145.35006146,
-                            -30.21428833
-                        ],
-                        [
-                            145.3846304,
-                            -30.19913311
-                        ],
-                        [
-                            145.38498121,
-                            -30.19897931
-                        ],
-                        [
-                            145.40373373,
-                            -30.20076309
-                        ],
-                        [
-                            145.43645575,
-                            -30.20355507
-                        ],
-                        [
-                            145.43662705,
-                            -30.20389197
-                        ],
-                        [
-                            145.43685474,
-                            -30.20391363
-                        ],
-                        [
-                            145.45773066,
-                            -30.24528595
-                        ],
-                        [
-                            145.45771479,
-                            -30.24536456
-                        ],
-                        [
-                            145.45771575,
-                            -30.24536645
-                        ],
-                        [
-                            145.45784612,
-                            -30.24562284
-                        ],
-                        [
-                            145.47870174,
-                            -30.24954441
-                        ],
-                        [
-                            145.47531493,
-                            -30.24098826
-                        ],
-                        [
-                            145.47231251,
-                            -30.23405959
-                        ],
-                        [
-                            145.46833556,
-                            -30.224892
-                        ],
-                        [
-                            145.46296433,
-                            -30.21758401
-                        ],
-                        [
-                            145.46240824,
-                            -30.20794497
-                        ],
-                        [
-                            145.45556589,
-                            -30.18046706
-                        ],
-                        [
-                            145.45673383,
-                            -30.14208222
-                        ],
-                        [
-                            145.45345773,
-                            -30.11263297
-                        ],
-                        [
-                            145.44268561,
-                            -30.08409229
-                        ],
-                        [
-                            145.42619586,
-                            -30.05324299
-                        ],
-                        [
-                            145.40899126,
-                            -30.02203816
-                        ],
-                        [
-                            145.40520582,
-                            -30.00490805
-                        ],
-                        [
-                            145.41514679,
-                            -29.97846555
-                        ],
-                        [
-                            145.43136701,
-                            -29.95106295
-                        ],
-                        [
-                            145.43903305,
-                            -29.89944268
-                        ],
-                        [
-                            145.44321426,
-                            -29.87115765
-                        ],
-                        [
-                            145.45021854,
-                            -29.84074589
-                        ],
-                        [
-                            145.44449111,
-                            -29.80682672
-                        ],
-                        [
-                            145.46000679,
-                            -29.78982801
-                        ],
-                        [
-                            145.46063393,
-                            -29.75236079
-                        ],
-                        [
-                            145.48701125,
-                            -29.72566586
-                        ],
-                        [
-                            145.50778405,
-                            -29.71980176
-                        ],
-                        [
-                            145.53911827,
-                            -29.72498749
-                        ],
-                        [
-                            145.55102332,
-                            -29.7194194
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/6ac401ab-7f52-472c-a66b-757911f45c75",
-                "hw_identifier": "6ac401ab-7f52-472c-a66b-757911f45c75",
-                "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-05T02:21:02-00:00",
-                "hw_status": "Actual",
-                "hw_msgType": "Update",
-                "hw_scope": "Public",
-                "hw_code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
-                "hw_language": "en-AU",
-                "hw_category": [
-                    "Met"
-                ],
-                "hw_event": "Riverine Flood",
-                "hw_responseType": "Avoid",
-                "hw_urgency": "Expected",
-                "hw_severity": "Moderate",
-                "hw_certainty": "Observed",
-                "hw_eventCode": "riverineflod",
-                "hw_senderName": "NSW State Emergency Service",
-                "hw_headline": "Fords Bridge Bywash and surrounds",
-                "hw_description": "<div>\n          <div>         <p> The NSW SES advises people in the following area(s) <strong>NOT TO ENTER FLOODWATER</strong> due to current <span>prolonged</span> <span> moderate flooding: </span> </p> <ul> <li>Low-lying roads, causeways and areas adjacent to the river and creeks</li> </ul> <p> You should monitor the situation as it is constantly changing. Avoid floodwater for your safety. </p>   </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Warrego River at Fords Bridge Bywash is currently at 2.68 metres and falling slowly, above the moderate flood level (2.30 m). <br /><br />The Warrego River at Fords Bridge Bywash is likely to remain above the moderate flood level through to mid or late this week. <br /><br />The river level may fall below the moderate flood level from late this week (from about Thursday 8 May).</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>Lower Lila Road (Fords Bridge - Enngonia Road) closed</li><li>Snake Gully Road closed</li><li>Ellavale Road closed</li><li>Toorale Road closed</li><li>No road access between Fords Bridge and Enngonia</li><li>Low-lying roads, bridges and causeways adjacent to the river and creeks</li><li>Unsealed roads may be closed</li><li>Floodwaters are expected to remain adjacent to minor and major roads for a prolonged period as the river recedes </li></ul></div>\n        </div>",
-                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Plan your route carefully to avoid flooded roads and allow extra travel time.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines and rivers.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines apply.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n          <li>If you are isolated and require resupply, contact NSW SES on <a href=\"tel:132 500\">132 500</a></li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
-                "hw_web": "https://www.ses.nsw.gov.au",
-                "hw_AffectedLocation": "Fords Bridge Bywash and surrounds",
-                "hw_NextUpdateDate": "2025-05-07T02:00:00.000Z",
-                "hw_AustralianWarningSystem:WarningLevel": "Watch and Act",
-                "hw_AustralianWarningSystem:CallToAction": "Do not enter floodwater",
-                "hw_title": "Fords Bridge Bywash and surrounds\n            flooding  - Do not enter floodwater",
-                "hw_date_modified": "2025-05-05T02:21:02.000Z",
-                "hw_authors": [
-                    {
-                        "name": "cap-au@ses.nsw.gov.au"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             143.83844179,
                             -29.0127976
                         ],
@@ -571,10 +253,10 @@
                 ]
             },
             "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/1c7f201b-5a2e-4bc4-b686-942031bac30a",
-                "hw_identifier": "1c7f201b-5a2e-4bc4-b686-942031bac30a",
+                "hw_id": "https://hazardwatch.gov.au//alert/8a27b087-f854-44c3-8af0-6bd1864457b2",
+                "hw_identifier": "8a27b087-f854-44c3-8af0-6bd1864457b2",
                 "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-05T03:06:43-00:00",
+                "hw_sent": "2025-05-07T08:10:05-00:00",
                 "hw_status": "Actual",
                 "hw_msgType": "Update",
                 "hw_scope": "Public",
@@ -595,445 +277,11 @@
                 "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n          <li>If you are isolated due to flooding and require resupply call NSW SES on 132 500</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>Access the latest information from the NSW SES at www.ses.nsw.gov.au/western-nsw-update</li>\n          <li>Primary producers requiring assistance with livestock, please contact the Agriculture and Animal Services Hotline 1800 814 647</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
                 "hw_web": "https://www.ses.nsw.gov.au",
                 "hw_AffectedLocation": "Paroo and surrounds",
-                "hw_NextUpdateDate": "2025-05-07T04:00:00.000Z",
+                "hw_NextUpdateDate": "2025-05-13T05:00:00.000Z",
                 "hw_AustralianWarningSystem:WarningLevel": "Advice",
                 "hw_AustralianWarningSystem:CallToAction": "Stay informed",
                 "hw_title": "Paroo and surrounds\n            flooding  - Stay informed",
-                "hw_date_modified": "2025-05-05T03:06:43.000Z",
-                "hw_authors": [
-                    {
-                        "name": "cap-au@ses.nsw.gov.au"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            144.33591646,
-                            -30.27478631
-                        ],
-                        [
-                            144.39373862,
-                            -30.66021283
-                        ],
-                        [
-                            144.40328374,
-                            -30.65054833
-                        ],
-                        [
-                            144.41132682,
-                            -30.63995977
-                        ],
-                        [
-                            144.41496754,
-                            -30.63022738
-                        ],
-                        [
-                            144.42310729,
-                            -30.62996393
-                        ],
-                        [
-                            144.42822878,
-                            -30.65269874
-                        ],
-                        [
-                            144.44619654,
-                            -30.64278412
-                        ],
-                        [
-                            144.45209131,
-                            -30.65876758
-                        ],
-                        [
-                            144.47503885,
-                            -30.67153437
-                        ],
-                        [
-                            144.50462608,
-                            -30.6797174
-                        ],
-                        [
-                            144.50200246,
-                            -30.69608138
-                        ],
-                        [
-                            144.51992951,
-                            -30.69338026
-                        ],
-                        [
-                            144.53089271,
-                            -30.68723969
-                        ],
-                        [
-                            144.56226047,
-                            -30.67643377
-                        ],
-                        [
-                            144.59280949,
-                            -30.65703339
-                        ],
-                        [
-                            144.62086271,
-                            -30.65699185
-                        ],
-                        [
-                            144.66023218,
-                            -30.64989424
-                        ],
-                        [
-                            144.69820153,
-                            -30.64603603
-                        ],
-                        [
-                            144.73917495,
-                            -30.62075997
-                        ],
-                        [
-                            144.76373862,
-                            -30.60904287
-                        ],
-                        [
-                            144.79168456,
-                            -30.58951582
-                        ],
-                        [
-                            144.82196536,
-                            -30.58030502
-                        ],
-                        [
-                            144.84022986,
-                            -30.56555068
-                        ],
-                        [
-                            144.86762581,
-                            -30.56435785
-                        ],
-                        [
-                            144.88815531,
-                            -30.55799143
-                        ],
-                        [
-                            144.93050176,
-                            -30.5245576
-                        ],
-                        [
-                            144.95167996,
-                            -30.52200232
-                        ],
-                        [
-                            144.97086207,
-                            -30.51060633
-                        ],
-                        [
-                            144.98133132,
-                            -30.49668557
-                        ],
-                        [
-                            144.99626167,
-                            -30.48178334
-                        ],
-                        [
-                            145.01968507,
-                            -30.46491954
-                        ],
-                        [
-                            145.03005381,
-                            -30.44524341
-                        ],
-                        [
-                            145.05508285,
-                            -30.44140509
-                        ],
-                        [
-                            145.08582901,
-                            -30.41596528
-                        ],
-                        [
-                            145.08466493,
-                            -30.3950541
-                        ],
-                        [
-                            145.0664581,
-                            -30.39505642
-                        ],
-                        [
-                            145.06523501,
-                            -30.37655082
-                        ],
-                        [
-                            145.07738005,
-                            -30.36137908
-                        ],
-                        [
-                            145.07935416,
-                            -30.34954737
-                        ],
-                        [
-                            145.09531867,
-                            -30.34365876
-                        ],
-                        [
-                            145.10203492,
-                            -30.3494733
-                        ],
-                        [
-                            145.11290323,
-                            -30.34923258
-                        ],
-                        [
-                            145.12327265,
-                            -30.35263042
-                        ],
-                        [
-                            145.13189059,
-                            -30.36006914
-                        ],
-                        [
-                            145.13555583,
-                            -30.36600999
-                        ],
-                        [
-                            145.12730334,
-                            -30.37620025
-                        ],
-                        [
-                            145.13626627,
-                            -30.38296096
-                        ],
-                        [
-                            145.14394175,
-                            -30.38509372
-                        ],
-                        [
-                            145.10406961,
-                            -30.22239619
-                        ],
-                        [
-                            145.21010963,
-                            -30.22661899
-                        ],
-                        [
-                            145.30116469,
-                            -30.23635344
-                        ],
-                        [
-                            145.31274263,
-                            -30.23427448
-                        ],
-                        [
-                            145.33592096,
-                            -30.21371549
-                        ],
-                        [
-                            145.35006146,
-                            -30.21428833
-                        ],
-                        [
-                            145.3846304,
-                            -30.19913311
-                        ],
-                        [
-                            145.43685474,
-                            -30.20391363
-                        ],
-                        [
-                            145.45773066,
-                            -30.24528595
-                        ],
-                        [
-                            145.47870174,
-                            -30.24954441
-                        ],
-                        [
-                            145.63700976,
-                            -30.10459736
-                        ],
-                        [
-                            145.71256258,
-                            -30.05415987
-                        ],
-                        [
-                            145.81987276,
-                            -29.96057663
-                        ],
-                        [
-                            146.00613625,
-                            -29.94840695
-                        ],
-                        [
-                            146.20644852,
-                            -29.91751921
-                        ],
-                        [
-                            146.22969104,
-                            -29.77543738
-                        ],
-                        [
-                            146.27490622,
-                            -29.68566176
-                        ],
-                        [
-                            146.27421607,
-                            -29.6103734
-                        ],
-                        [
-                            146.33120414,
-                            -29.53980802
-                        ],
-                        [
-                            146.45616661,
-                            -29.46072571
-                        ],
-                        [
-                            146.56760001,
-                            -29.41661949
-                        ],
-                        [
-                            146.64058126,
-                            -29.31922467
-                        ],
-                        [
-                            146.69149144,
-                            -29.19619242
-                        ],
-                        [
-                            146.73553517,
-                            -29.10421435
-                        ],
-                        [
-                            146.74788779,
-                            -28.99500282
-                        ],
-                        [
-                            145.65325422,
-                            -28.9982199
-                        ],
-                        [
-                            145.21803019,
-                            -29.00110706
-                        ],
-                        [
-                            144.64208899,
-                            -28.99931696
-                        ],
-                        [
-                            144.63350592,
-                            -29.06685761
-                        ],
-                        [
-                            144.63127437,
-                            -29.0741849
-                        ],
-                        [
-                            144.60810004,
-                            -29.15024674
-                        ],
-                        [
-                            144.58509741,
-                            -29.20420364
-                        ],
-                        [
-                            144.58372412,
-                            -29.24195658
-                        ],
-                        [
-                            144.5682746,
-                            -29.26142686
-                        ],
-                        [
-                            144.52955049,
-                            -29.29023555
-                        ],
-                        [
-                            144.50895113,
-                            -29.3527972
-                        ],
-                        [
-                            144.50757784,
-                            -29.40006714
-                        ],
-                        [
-                            144.50036806,
-                            -29.45568588
-                        ],
-                        [
-                            144.47805208,
-                            -29.52143214
-                        ],
-                        [
-                            144.44406313,
-                            -29.55876895
-                        ],
-                        [
-                            144.40973085,
-                            -29.57668572
-                        ],
-                        [
-                            144.35823244,
-                            -29.6217622
-                        ],
-                        [
-                            144.34175295,
-                            -29.66622187
-                        ],
-                        [
-                            144.34037965,
-                            -29.77594412
-                        ],
-                        [
-                            144.30673403,
-                            -29.80454757
-                        ],
-                        [
-                            144.2814998,
-                            -29.8704231
-                        ],
-                        [
-                            144.25266069,
-                            -30.00326362
-                        ],
-                        [
-                            144.33591646,
-                            -30.27478631
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/0a7cf82a-b0fa-4349-bde5-80fa649186e3",
-                "hw_identifier": "0a7cf82a-b0fa-4349-bde5-80fa649186e3",
-                "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-05T02:19:24-00:00",
-                "hw_status": "Actual",
-                "hw_msgType": "Update",
-                "hw_scope": "Public",
-                "hw_code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
-                "hw_language": "en-AU",
-                "hw_category": [
-                    "Met"
-                ],
-                "hw_event": "Riverine Flood",
-                "hw_responseType": "Monitor",
-                "hw_urgency": "Future",
-                "hw_severity": "Minor",
-                "hw_certainty": "Possible",
-                "hw_eventCode": "riverineflod",
-                "hw_senderName": "NSW State Emergency Service",
-                "hw_headline": "Warrego and surrounds",
-                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>prolonged minor to</span> <span> moderate flooding </span> on the Warrego River: </p> <ul> <li>Rural homesteads and properties which are prone to isolation in the area of Bourke Shire in the Warrego River catchment.</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3></div><div><p><span>River levels continue to fall slowly along the Warrego River at Fords Bridge Bywash, where moderate flooding is likely to continue through to mid or late this week.<br /><br />No significant rainfall is forecast for the next few days.<br /><br />This will continue to isolate some rural properties and disrupt essential services. <br /><br />Current water levels in key areas indicate significant risk to road infrastructure, as well as agricultural land and livestock.<br /><br />Roads, bridges, causeways, low-lying areas may be impacted and unsealed roads may become impassable.<br /><br />If you need resupply:<br />Call NSW SES on 132 500 to request assistance. You will be given a reference number.<br />Contact the following stores to place your order, providing your SES reference number:<br />•\tKhans Supa IGA - Oxley St, Bourke, 02 6872 3264<br />•\tBourke Pharmacy - 32-36 Oxley St, Bourke 02 6872 2004<br />•\tNutri Ag Solutions Bourke - 60-62 Anson St, Bourke, 02 6872 2033<br /></span></p></div>\n        </div>",
-                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>People working or camping along the river should monitor river heights and be prepared to relocate to higher ground.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>If you are isolated and require resupply, contact NSW SES on 132 500</li>\n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
-                "hw_web": "https://www.ses.nsw.gov.au",
-                "hw_AffectedLocation": "Warrego and surrounds",
-                "hw_NextUpdateDate": "2025-05-07T02:00:00.000Z",
-                "hw_AustralianWarningSystem:WarningLevel": "Advice",
-                "hw_AustralianWarningSystem:CallToAction": "Stay informed",
-                "hw_title": "Warrego and surrounds\n            flooding  - Stay informed",
-                "hw_date_modified": "2025-05-05T02:19:24.000Z",
+                "hw_date_modified": "2025-05-07T08:10:05.000Z",
                 "hw_authors": [
                     {
                         "name": "cap-au@ses.nsw.gov.au"
@@ -1511,10 +759,10 @@
                 ]
             },
             "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/cb52867b-c9dc-4020-8d01-51e0bd435193",
-                "hw_identifier": "cb52867b-c9dc-4020-8d01-51e0bd435193",
+                "hw_id": "https://hazardwatch.gov.au//alert/a68cbb48-67b0-4192-a27b-d22aee33bc53",
+                "hw_identifier": "a68cbb48-67b0-4192-a27b-d22aee33bc53",
                 "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-05T05:50:45-00:00",
+                "hw_sent": "2025-05-07T04:45:07-00:00",
                 "hw_status": "Actual",
                 "hw_msgType": "Update",
                 "hw_scope": "Public",
@@ -1525,21 +773,338 @@
                 ],
                 "hw_event": "Riverine Flood",
                 "hw_responseType": "Monitor",
-                "hw_urgency": "Future",
+                "hw_urgency": "Expected",
                 "hw_severity": "Minor",
                 "hw_certainty": "Possible",
                 "hw_eventCode": "riverineflod",
                 "hw_senderName": "NSW State Emergency Service",
                 "hw_headline": "Bourke and surrounds",
-                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>falling</span> <span> minor flooding </span> on the Darling River: </p> <ul> <li>Low lying areas of Bourke and surrounds</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Darling River at Bourke is currently at 9.76 metres and falling, above the minor flood level (9.50 m). <br /><br />The Darling River at Bourke is likely to fall below the minor flood level (9.50 m) during Tuesday.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>Parkdale Road closed</li><li>West Culgoa Road closed </li><li>Dry Bogan Road closed</li><li>Parkdale Road closed</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
-                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>People working or camping along the river should monitor river heights and be prepared to relocate to higher ground.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>If you are likely to be isolated due to flooding, stock up on essential items now.</li> \n          <li>If you become isolated, notify NSW SES by calling 132 500</li> \n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
+                "hw_description": "<div>\n          <div>           <p> The NSW SES advises people in the following area(s) to <strong>MONITOR CONDITIONS</strong> of the <span> </span> <span> flooding </span> on the Darling River: </p> <ul> <li>Flooding is no longer occurring in Bourke.</li> </ul> <p> You should monitor conditions by checking warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and following the latest weather information from the Bureau of Meteorology online. </p> </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the main flood peak along the Darling River is now around Louth, where a moderate flood peak likely to occur from Wednesday to Friday.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> floodwaters:</span></p><ul><li>Parkdale Road closed</li><li>West Culgoa Road closed </li><li>Dry Bogan Road closed</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
+                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>Consider the consequences of road and bridge closures. Damage to roads, bridges or buildings caused by flooding and landslip may still exist in your area. Consider the need to make alternate arrangements for work, children, and travel.</li> \n          <li>Be aware of road hazards including mud and debris.</li> \n          <li>Remain vigilant as there could still be water in low lying areas.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>If you are isolated and require resupply, contact NSW SES on <a href=\"tel:132 500\">132 500</a></li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n          <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
                 "hw_web": "https://www.ses.nsw.gov.au",
                 "hw_AffectedLocation": "Bourke and surrounds",
-                "hw_NextUpdateDate": "2025-05-07T05:00:00.000Z",
                 "hw_AustralianWarningSystem:WarningLevel": "Advice",
-                "hw_AustralianWarningSystem:CallToAction": "Stay informed",
-                "hw_title": "Bourke and surrounds\n            flooding  - Stay informed",
-                "hw_date_modified": "2025-05-05T05:50:45.000Z",
+                "hw_AustralianWarningSystem:CallToAction": "Monitor conditions",
+                "hw_title": "Bourke and surrounds\n            flooding  - Monitor conditions",
+                "hw_date_modified": "2025-05-07T04:45:07.000Z",
+                "hw_authors": [
+                    {
+                        "name": "cap-au@ses.nsw.gov.au"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145.55102332,
+                            -29.7194194
+                        ],
+                        [
+                            145.51146164,
+                            -29.66673509
+                        ],
+                        [
+                            145.50271966,
+                            -29.67079245
+                        ],
+                        [
+                            145.48418451,
+                            -29.67626691
+                        ],
+                        [
+                            145.45729873,
+                            -29.68421898
+                        ],
+                        [
+                            145.42540587,
+                            -29.70161318
+                        ],
+                        [
+                            145.42237903,
+                            -29.74307454
+                        ],
+                        [
+                            145.41563492,
+                            -29.74429366
+                        ],
+                        [
+                            145.4124474,
+                            -29.74421613
+                        ],
+                        [
+                            145.41176414,
+                            -29.76009561
+                        ],
+                        [
+                            145.41324878,
+                            -29.760158
+                        ],
+                        [
+                            145.41670186,
+                            -29.76170785
+                        ],
+                        [
+                            145.40555825,
+                            -29.79620753
+                        ],
+                        [
+                            145.41009366,
+                            -29.83382069
+                        ],
+                        [
+                            145.38426189,
+                            -29.90788374
+                        ],
+                        [
+                            145.3568113,
+                            -29.97052812
+                        ],
+                        [
+                            145.3552892,
+                            -30.00742598
+                        ],
+                        [
+                            145.39632118,
+                            -30.09809188
+                        ],
+                        [
+                            145.34394772,
+                            -30.18264149
+                        ],
+                        [
+                            145.31781436,
+                            -30.21553945
+                        ],
+                        [
+                            145.30141698,
+                            -30.23603443
+                        ],
+                        [
+                            145.30116158,
+                            -30.23635365
+                        ],
+                        [
+                            145.30116469,
+                            -30.23635344
+                        ],
+                        [
+                            145.30116797,
+                            -30.23634757
+                        ],
+                        [
+                            145.30821287,
+                            -30.23587004
+                        ],
+                        [
+                            145.31160356,
+                            -30.23579097
+                        ],
+                        [
+                            145.31160526,
+                            -30.23579093
+                        ],
+                        [
+                            145.31274263,
+                            -30.23427448
+                        ],
+                        [
+                            145.31916911,
+                            -30.22601206
+                        ],
+                        [
+                            145.33592096,
+                            -30.21371549
+                        ],
+                        [
+                            145.3494682,
+                            -30.21425026
+                        ],
+                        [
+                            145.34947453,
+                            -30.2142475
+                        ],
+                        [
+                            145.35006146,
+                            -30.21428833
+                        ],
+                        [
+                            145.3846304,
+                            -30.19913311
+                        ],
+                        [
+                            145.38498121,
+                            -30.19897931
+                        ],
+                        [
+                            145.40373373,
+                            -30.20076309
+                        ],
+                        [
+                            145.43645575,
+                            -30.20355507
+                        ],
+                        [
+                            145.43662705,
+                            -30.20389197
+                        ],
+                        [
+                            145.43685474,
+                            -30.20391363
+                        ],
+                        [
+                            145.45773066,
+                            -30.24528595
+                        ],
+                        [
+                            145.45771479,
+                            -30.24536456
+                        ],
+                        [
+                            145.45771575,
+                            -30.24536645
+                        ],
+                        [
+                            145.45784612,
+                            -30.24562284
+                        ],
+                        [
+                            145.47870174,
+                            -30.24954441
+                        ],
+                        [
+                            145.47531493,
+                            -30.24098826
+                        ],
+                        [
+                            145.47231251,
+                            -30.23405959
+                        ],
+                        [
+                            145.46833556,
+                            -30.224892
+                        ],
+                        [
+                            145.46296433,
+                            -30.21758401
+                        ],
+                        [
+                            145.46240824,
+                            -30.20794497
+                        ],
+                        [
+                            145.45556589,
+                            -30.18046706
+                        ],
+                        [
+                            145.45673383,
+                            -30.14208222
+                        ],
+                        [
+                            145.45345773,
+                            -30.11263297
+                        ],
+                        [
+                            145.44268561,
+                            -30.08409229
+                        ],
+                        [
+                            145.42619586,
+                            -30.05324299
+                        ],
+                        [
+                            145.40899126,
+                            -30.02203816
+                        ],
+                        [
+                            145.40520582,
+                            -30.00490805
+                        ],
+                        [
+                            145.41514679,
+                            -29.97846555
+                        ],
+                        [
+                            145.43136701,
+                            -29.95106295
+                        ],
+                        [
+                            145.43903305,
+                            -29.89944268
+                        ],
+                        [
+                            145.44321426,
+                            -29.87115765
+                        ],
+                        [
+                            145.45021854,
+                            -29.84074589
+                        ],
+                        [
+                            145.44449111,
+                            -29.80682672
+                        ],
+                        [
+                            145.46000679,
+                            -29.78982801
+                        ],
+                        [
+                            145.46063393,
+                            -29.75236079
+                        ],
+                        [
+                            145.48701125,
+                            -29.72566586
+                        ],
+                        [
+                            145.50778405,
+                            -29.71980176
+                        ],
+                        [
+                            145.53911827,
+                            -29.72498749
+                        ],
+                        [
+                            145.55102332,
+                            -29.7194194
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "hw_id": "https://hazardwatch.gov.au//alert/f15e1b4b-e979-4f5d-afff-1ba28711a2ea",
+                "hw_identifier": "f15e1b4b-e979-4f5d-afff-1ba28711a2ea",
+                "hw_sender": "cap-au@ses.nsw.gov.au",
+                "hw_sent": "2025-05-07T04:48:09-00:00",
+                "hw_status": "Actual",
+                "hw_msgType": "Update",
+                "hw_scope": "Public",
+                "hw_code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
+                "hw_language": "en-AU",
+                "hw_category": [
+                    "Met"
+                ],
+                "hw_event": "Riverine Flood",
+                "hw_responseType": "Avoid",
+                "hw_urgency": "Expected",
+                "hw_severity": "Moderate",
+                "hw_certainty": "Observed",
+                "hw_eventCode": "riverineflod",
+                "hw_senderName": "NSW State Emergency Service",
+                "hw_headline": "Fords Bridge Bywash and surrounds",
+                "hw_description": "<div>\n          <div>         <p> The NSW SES advises people in the following area(s) <strong>NOT TO ENTER FLOODWATER</strong> due to current <span>prolonged</span> <span> moderate flooding: </span> </p> <ul> <li>Low-lying roads, causeways and areas adjacent to the river and creeks</li> </ul> <p> You should monitor the situation as it is constantly changing. Avoid floodwater for your safety. </p>   </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Warrego River at Fords Bridge Bywash is currently at 2.54 metres and falling slowly, above the moderate flood level (2.30 m). <br /><br />The Warrego River at Fords Bridge Bywash may fall below the moderate flood level Friday evening.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>Lower Lila Road (Fords Bridge - Enngonia Road) closed</li><li>Snake Gully Road closed</li><li>Ellavale Road closed</li><li>Toorale Road closed</li><li>No road access between Fords Bridge and Enngonia</li><li>Low-lying roads, bridges and causeways adjacent to the river and creeks</li><li>Unsealed roads may be closed</li><li>Floodwaters are expected to remain adjacent to minor and major roads for a prolonged period as the river recedes </li></ul></div>\n        </div>",
+                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Plan your route carefully to avoid flooded roads and allow extra travel time.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines and rivers.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines apply.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n          <li>If you are isolated and require resupply, contact NSW SES on <a href=\"tel:132 500\">132 500</a></li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
+                "hw_web": "https://www.ses.nsw.gov.au",
+                "hw_AffectedLocation": "Fords Bridge Bywash and surrounds",
+                "hw_NextUpdateDate": "2025-05-09T02:00:00.000Z",
+                "hw_AustralianWarningSystem:WarningLevel": "Watch and Act",
+                "hw_AustralianWarningSystem:CallToAction": "Do not enter floodwater",
+                "hw_title": "Fords Bridge Bywash and surrounds\n            flooding  - Do not enter floodwater",
+                "hw_date_modified": "2025-05-07T04:48:09.000Z",
                 "hw_authors": [
                     {
                         "name": "cap-au@ses.nsw.gov.au"
@@ -2329,10 +1894,10 @@
                 ]
             },
             "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/c625fdc6-0f48-4cef-8d28-f9e91dcd9d72",
-                "hw_identifier": "c625fdc6-0f48-4cef-8d28-f9e91dcd9d72",
+                "hw_id": "https://hazardwatch.gov.au//alert/3b6531fb-c079-4858-9076-809789cf07ce",
+                "hw_identifier": "3b6531fb-c079-4858-9076-809789cf07ce",
                 "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-05T05:51:55-00:00",
+                "hw_sent": "2025-05-07T05:04:33-00:00",
                 "hw_status": "Actual",
                 "hw_msgType": "Update",
                 "hw_scope": "Public",
@@ -2349,15 +1914,473 @@
                 "hw_eventCode": "riverineflod",
                 "hw_senderName": "NSW State Emergency Service",
                 "hw_headline": "Louth and surrounds",
-                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>rising slowly</span> <span> moderate flooding </span> on the Darling River: </p> <ul> <li>Louth and surrounding areas</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Darling River at Louth is currently at 10.15 metres and rising slowly, above the moderate flood level (10.00 m). <br /><br />The Darling River at Louth may peak around 10.30 metres between Tuesday May 6 and Thursday May 8, with moderate flooding. <br /><br />The river level is expected to remain above the moderate flood level (10.00 m) most of this week.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>Toorale Road closed</li><li>Louth - Tilpa East Side impacted</li><li>Louth - Tilpa West Side impacted</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
+                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>rising slowly</span> <span> moderate flooding </span> on the Darling River: </p> <ul> <li>Louth and surrounding areas</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Darling River at Louth is currently at 10.27 metres and rising slowly, above the moderate flood level (10.00 m). <br /><br />The Darling River at Louth may peak around 10.30 metres between Wednesday May 7 and Friday May 9, with moderate flooding. <br /><br />The river level is expected to remain above the moderate flood level (10.00 m) into the weekend.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>Toorale Road closed</li><li>Louth - Tilpa East Side impacted</li><li>Louth - Tilpa West Side impacted</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
                 "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>People working or camping along the river should monitor river heights and be prepared to relocate to higher ground.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n          <li>If you are likely to be isolated due to flooding, stock up on essential items now.</li> \n          <li>If you become isolated, notify NSW SES by calling 132 500</li> \n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
                 "hw_web": "https://www.ses.nsw.gov.au",
                 "hw_AffectedLocation": "Louth and surrounds",
-                "hw_NextUpdateDate": "2025-05-07T05:00:00.000Z",
+                "hw_NextUpdateDate": "2025-05-09T05:00:00.000Z",
                 "hw_AustralianWarningSystem:WarningLevel": "Advice",
                 "hw_AustralianWarningSystem:CallToAction": "Stay informed",
                 "hw_title": "Louth and surrounds\n            flooding  - Stay informed",
-                "hw_date_modified": "2025-05-05T05:51:55.000Z",
+                "hw_date_modified": "2025-05-07T05:04:33.000Z",
+                "hw_authors": [
+                    {
+                        "name": "cap-au@ses.nsw.gov.au"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            144.08748597,
+                            -30.55989883
+                        ],
+                        [
+                            144.03563093,
+                            -30.54563868
+                        ],
+                        [
+                            143.98852926,
+                            -30.54002105
+                        ],
+                        [
+                            143.94142759,
+                            -30.55082418
+                        ],
+                        [
+                            143.91247519,
+                            -30.57631958
+                        ],
+                        [
+                            143.84506362,
+                            -30.57372682
+                        ],
+                        [
+                            143.72882189,
+                            -30.61780361
+                        ],
+                        [
+                            143.63721283,
+                            -30.64027407
+                        ],
+                        [
+                            143.6138785,
+                            -30.66404067
+                        ],
+                        [
+                            143.56980255,
+                            -30.71070963
+                        ],
+                        [
+                            143.56634569,
+                            -30.73706887
+                        ],
+                        [
+                            143.56519566,
+                            -30.78633351
+                        ],
+                        [
+                            143.581981,
+                            -30.84228401
+                        ],
+                        [
+                            143.59006287,
+                            -30.88144937
+                        ],
+                        [
+                            143.56333105,
+                            -30.91750649
+                        ],
+                        [
+                            143.51794921,
+                            -31.00143247
+                        ],
+                        [
+                            143.50862433,
+                            -31.06795149
+                        ],
+                        [
+                            143.48127084,
+                            -31.10214359
+                        ],
+                        [
+                            143.50489473,
+                            -31.20471954
+                        ],
+                        [
+                            143.52478872,
+                            -31.35205594
+                        ],
+                        [
+                            143.51173384,
+                            -31.42976509
+                        ],
+                        [
+                            143.47754199,
+                            -31.43038561
+                        ],
+                        [
+                            143.44832291,
+                            -31.4521445
+                        ],
+                        [
+                            143.48445851,
+                            -31.50864081
+                        ],
+                        [
+                            143.57093663,
+                            -31.6435935
+                        ],
+                        [
+                            143.614037,
+                            -31.63471989
+                        ],
+                        [
+                            143.63420538,
+                            -31.63056798
+                        ],
+                        [
+                            143.65472081,
+                            -31.61191782
+                        ],
+                        [
+                            143.67212788,
+                            -31.58953758
+                        ],
+                        [
+                            143.73429556,
+                            -31.57834779
+                        ],
+                        [
+                            143.78340774,
+                            -31.61502699
+                        ],
+                        [
+                            144.04451115,
+                            -31.70517164
+                        ],
+                        [
+                            144.06810195,
+                            -31.6996672
+                        ],
+                        [
+                            144.07469456,
+                            -31.66970168
+                        ],
+                        [
+                            144.06750302,
+                            -31.63853747
+                        ],
+                        [
+                            144.03394175,
+                            -31.61396551
+                        ],
+                        [
+                            144.06031149,
+                            -31.604976
+                        ],
+                        [
+                            144.09087645,
+                            -31.58879479
+                        ],
+                        [
+                            144.08428409,
+                            -31.57980508
+                        ],
+                        [
+                            144.12743546,
+                            -31.42038861
+                        ],
+                        [
+                            144.15919894,
+                            -31.41978949
+                        ],
+                        [
+                            144.21373631,
+                            -31.4078036
+                        ],
+                        [
+                            144.29943814,
+                            -31.35027027
+                        ],
+                        [
+                            144.31142445,
+                            -31.33588687
+                        ],
+                        [
+                            144.28984954,
+                            -31.28914048
+                        ],
+                        [
+                            144.38806115,
+                            -31.27697328
+                        ],
+                        [
+                            144.38430571,
+                            -31.27209115
+                        ],
+                        [
+                            144.38024242,
+                            -31.26618082
+                        ],
+                        [
+                            144.37747201,
+                            -31.25842353
+                        ],
+                        [
+                            144.37968842,
+                            -31.25048157
+                        ],
+                        [
+                            144.37894967,
+                            -31.24494066
+                        ],
+                        [
+                            144.37026896,
+                            -31.23773743
+                        ],
+                        [
+                            144.37026899,
+                            -31.23145773
+                        ],
+                        [
+                            144.37248535,
+                            -31.23238123
+                        ],
+                        [
+                            144.37248558,
+                            -31.19470305
+                        ],
+                        [
+                            144.37488664,
+                            -31.19470306
+                        ],
+                        [
+                            144.37544077,
+                            -31.18916216
+                        ],
+                        [
+                            144.37765712,
+                            -31.19027035
+                        ],
+                        [
+                            144.38079695,
+                            -31.1947031
+                        ],
+                        [
+                            144.39723497,
+                            -31.19525729
+                        ],
+                        [
+                            144.40240652,
+                            -31.18990111
+                        ],
+                        [
+                            144.40259128,
+                            -31.17974278
+                        ],
+                        [
+                            144.41071801,
+                            -31.16810692
+                        ],
+                        [
+                            144.43048059,
+                            -31.16718355
+                        ],
+                        [
+                            144.43435919,
+                            -31.17290918
+                        ],
+                        [
+                            144.435098,
+                            -31.16976934
+                        ],
+                        [
+                            144.44285527,
+                            -31.17032348
+                        ],
+                        [
+                            144.4515361,
+                            -31.15721005
+                        ],
+                        [
+                            144.47111409,
+                            -31.13892517
+                        ],
+                        [
+                            144.46520385,
+                            -31.12969028
+                        ],
+                        [
+                            144.46483451,
+                            -31.11971665
+                        ],
+                        [
+                            144.53021723,
+                            -31.12027114
+                        ],
+                        [
+                            144.53040204,
+                            -31.10087796
+                        ],
+                        [
+                            144.5241224,
+                            -31.09219716
+                        ],
+                        [
+                            144.54019104,
+                            -31.09201256
+                        ],
+                        [
+                            144.53040222,
+                            -31.07261932
+                        ],
+                        [
+                            144.57647141,
+                            -31.07279086
+                        ],
+                        [
+                            144.59370165,
+                            -31.05361309
+                        ],
+                        [
+                            144.59801125,
+                            -31.03447136
+                        ],
+                        [
+                            144.60995299,
+                            -30.98138502
+                        ],
+                        [
+                            144.60995185,
+                            -30.98138535
+                        ],
+                        [
+                            144.60778187,
+                            -30.97889221
+                        ],
+                        [
+                            144.60538105,
+                            -30.97792266
+                        ],
+                        [
+                            144.60482697,
+                            -30.97159745
+                        ],
+                        [
+                            144.49879265,
+                            -30.85108382
+                        ],
+                        [
+                            144.39403617,
+                            -30.65977579
+                        ],
+                        [
+                            144.39403845,
+                            -30.65977356
+                        ],
+                        [
+                            144.39246156,
+                            -30.65819667
+                        ],
+                        [
+                            144.38288172,
+                            -30.65969612
+                        ],
+                        [
+                            144.37480134,
+                            -30.65861318
+                        ],
+                        [
+                            144.37055289,
+                            -30.6536983
+                        ],
+                        [
+                            144.36413857,
+                            -30.65153243
+                        ],
+                        [
+                            144.36063985,
+                            -30.65036619
+                        ],
+                        [
+                            144.33938247,
+                            -30.65230459
+                        ],
+                        [
+                            144.32343331,
+                            -30.62989879
+                        ],
+                        [
+                            144.31097828,
+                            -30.61943656
+                        ],
+                        [
+                            144.28905743,
+                            -30.61196354
+                        ],
+                        [
+                            144.25916536,
+                            -30.5980139
+                        ],
+                        [
+                            144.23126609,
+                            -30.61545094
+                        ],
+                        [
+                            144.1943992,
+                            -30.62242576
+                        ],
+                        [
+                            144.13710606,
+                            -30.62690957
+                        ],
+                        [
+                            144.1111996,
+                            -30.60399231
+                        ],
+                        [
+                            144.08748597,
+                            -30.55989883
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "hw_id": "https://hazardwatch.gov.au//alert/5d0f25c8-802c-4b51-a8ac-ae3003cccabe",
+                "hw_identifier": "5d0f25c8-802c-4b51-a8ac-ae3003cccabe",
+                "hw_sender": "cap-au@ses.nsw.gov.au",
+                "hw_sent": "2025-05-07T05:53:23-00:00",
+                "hw_status": "Actual",
+                "hw_msgType": "Update",
+                "hw_scope": "Public",
+                "hw_code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
+                "hw_language": "en-AU",
+                "hw_category": [
+                    "Met"
+                ],
+                "hw_event": "Riverine Flood",
+                "hw_responseType": "Monitor",
+                "hw_urgency": "Future",
+                "hw_severity": "Minor",
+                "hw_certainty": "Possible",
+                "hw_eventCode": "riverineflod",
+                "hw_senderName": "NSW State Emergency Service",
+                "hw_headline": "Tilpa and surrounds",
+                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>rising slowly</span> <span> moderate flooding </span> on the Darling River : </p> <ul> <li>Tilpa and surrounding areas</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Darling River at Tilpa is currently at 10.26 metres and rising, above the minor flood level (9.00 m). <br /><br />The Darling River at Tilpa may exceed the moderate flood level (10.50 m) from late Thursday into Friday.<br /><br />The river level may reach around 11.00 metres between Sunday May 11 and Monday May 12, with moderate flooding. <br /><br />Peak predictions will be provided once upstream peaks have been observed.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>Low lying rural properties and homesteads adjacent to the Darling River may become isolated by flood water</li><li>Curranyalpa Road closed</li><li>Nelyambo Bridge Road closed</li><li>West Tilpa Road closed</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
+                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>If you are likely to be isolated due to flooding, stock up on essential items now.</li> \n          <li>People working or camping along the river should monitor river heights and be prepared to relocate to higher ground.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n          <li>Gather your pets and companion animals for safe travel.</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li>\n          <li>If you become isolated, notify NSW SES by calling 132 500</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
+                "hw_web": "https://www.ses.nsw.gov.au",
+                "hw_AffectedLocation": "Tilpa and surrounds",
+                "hw_NextUpdateDate": "2025-05-09T05:00:00.000Z",
+                "hw_AustralianWarningSystem:WarningLevel": "Advice",
+                "hw_AustralianWarningSystem:CallToAction": "Stay informed",
+                "hw_title": "Tilpa and surrounds\n            flooding  - Stay informed",
+                "hw_date_modified": "2025-05-07T05:53:23.000Z",
                 "hw_authors": [
                     {
                         "name": "cap-au@ses.nsw.gov.au"
@@ -2871,10 +2894,10 @@
                 ]
             },
             "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/d8c619e9-d7ca-46ca-83ed-b4ae26d8c29a",
-                "hw_identifier": "d8c619e9-d7ca-46ca-83ed-b4ae26d8c29a",
+                "hw_id": "https://hazardwatch.gov.au//alert/e2b78de6-43e5-44e5-8702-522275393111",
+                "hw_identifier": "e2b78de6-43e5-44e5-8702-522275393111",
                 "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-05T07:01:02-00:00",
+                "hw_sent": "2025-05-07T05:54:23-00:00",
                 "hw_status": "Actual",
                 "hw_msgType": "Update",
                 "hw_scope": "Public",
@@ -2891,15 +2914,15 @@
                 "hw_eventCode": "riverineflod",
                 "hw_senderName": "NSW State Emergency Service",
                 "hw_headline": "Wilcannia and surrounds ",
-                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>rising slowly</span> <span> minor flooding </span> on the Darling River : </p> <ul> <li>Wilcannia and surrounds</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Darling River at Wilcannia is currently at 8.40 metres and rising slowly, below the minor flood level (9.00 m). <br /><br />The Darling River at Wilcannia is likely to reach the minor flood level (9.00 m) between Sunday May 11 and Thursday May 15. <br /><br />Higher levels, including moderate flooding are possible. <br /><br />Predictions will be refined as upstream peaks are observed.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>West Tilpa Road closed</li><li>Wanaaring Road closed</li><li>East Tilpa Road impacted</li><li>Wilcannia - Menindee West Road impacted</li><li>Wilcannia - Menindee East Road impacted</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
+                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>rising slowly</span> <span> minor flooding </span> on the Darling River : </p> <ul> <li>Wilcannia and surrounds</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Darling River at Wilcannia is currently at 8.63 metres and rising slowly, below the minor flood level (9.00 m). <br /><br />The Darling River at Wilcannia is likely to reach the minor flood level between Sunday May 11 and Tuesday May 13. <br /><br />Higher levels, including moderate flooding are possible. <br /><br />Predictions will be refined as upstream peaks are observed.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>West Tilpa Road closed</li><li>East Tilpa Road impacted</li><li>Wilcannia - Menindee West Road impacted</li><li>Wilcannia - Menindee East Road impacted</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
                 "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>If you are likely to be isolated due to flooding, stock up on essential items now.</li> \n          <li>People working or camping along the river should monitor river heights and be prepared to relocate to higher ground.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
                 "hw_web": "https://www.ses.nsw.gov.au",
                 "hw_AffectedLocation": "Wilcannia and surrounds ",
-                "hw_NextUpdateDate": "2025-05-07T05:00:00.000Z",
+                "hw_NextUpdateDate": "2025-05-09T05:00:00.000Z",
                 "hw_AustralianWarningSystem:WarningLevel": "Advice",
                 "hw_AustralianWarningSystem:CallToAction": "Stay informed",
                 "hw_title": "Wilcannia and surrounds \n            flooding  - Stay informed",
-                "hw_date_modified": "2025-05-05T07:01:02.000Z",
+                "hw_date_modified": "2025-05-07T05:54:23.000Z",
                 "hw_authors": [
                     {
                         "name": "cap-au@ses.nsw.gov.au"
@@ -2914,425 +2937,401 @@
                 "coordinates": [
                     [
                         [
-                            144.08748597,
-                            -30.55989883
+                            144.33591646,
+                            -30.27478631
                         ],
                         [
-                            144.03563093,
-                            -30.54563868
+                            144.39373862,
+                            -30.66021283
                         ],
                         [
-                            143.98852926,
-                            -30.54002105
+                            144.40328374,
+                            -30.65054833
                         ],
                         [
-                            143.94142759,
-                            -30.55082418
+                            144.41132682,
+                            -30.63995977
                         ],
                         [
-                            143.91247519,
-                            -30.57631958
+                            144.41496754,
+                            -30.63022738
                         ],
                         [
-                            143.84506362,
-                            -30.57372682
+                            144.42310729,
+                            -30.62996393
                         ],
                         [
-                            143.72882189,
-                            -30.61780361
+                            144.42822878,
+                            -30.65269874
                         ],
                         [
-                            143.63721283,
-                            -30.64027407
+                            144.44619654,
+                            -30.64278412
                         ],
                         [
-                            143.6138785,
-                            -30.66404067
+                            144.45209131,
+                            -30.65876758
                         ],
                         [
-                            143.56980255,
-                            -30.71070963
+                            144.47503885,
+                            -30.67153437
                         ],
                         [
-                            143.56634569,
-                            -30.73706887
+                            144.50462608,
+                            -30.6797174
                         ],
                         [
-                            143.56519566,
-                            -30.78633351
+                            144.50200246,
+                            -30.69608138
                         ],
                         [
-                            143.581981,
-                            -30.84228401
+                            144.51992951,
+                            -30.69338026
                         ],
                         [
-                            143.59006287,
-                            -30.88144937
+                            144.53089271,
+                            -30.68723969
                         ],
                         [
-                            143.56333105,
-                            -30.91750649
+                            144.56226047,
+                            -30.67643377
                         ],
                         [
-                            143.51794921,
-                            -31.00143247
+                            144.59280949,
+                            -30.65703339
                         ],
                         [
-                            143.50862433,
-                            -31.06795149
+                            144.62086271,
+                            -30.65699185
                         ],
                         [
-                            143.48127084,
-                            -31.10214359
+                            144.66023218,
+                            -30.64989424
                         ],
                         [
-                            143.50489473,
-                            -31.20471954
+                            144.69820153,
+                            -30.64603603
                         ],
                         [
-                            143.52478872,
-                            -31.35205594
+                            144.73917495,
+                            -30.62075997
                         ],
                         [
-                            143.51173384,
-                            -31.42976509
+                            144.76373862,
+                            -30.60904287
                         ],
                         [
-                            143.47754199,
-                            -31.43038561
+                            144.79168456,
+                            -30.58951582
                         ],
                         [
-                            143.44832291,
-                            -31.4521445
+                            144.82196536,
+                            -30.58030502
                         ],
                         [
-                            143.48445851,
-                            -31.50864081
+                            144.84022986,
+                            -30.56555068
                         ],
                         [
-                            143.57093663,
-                            -31.6435935
+                            144.86762581,
+                            -30.56435785
                         ],
                         [
-                            143.614037,
-                            -31.63471989
+                            144.88815531,
+                            -30.55799143
                         ],
                         [
-                            143.63420538,
-                            -31.63056798
+                            144.93050176,
+                            -30.5245576
                         ],
                         [
-                            143.65472081,
-                            -31.61191782
+                            144.95167996,
+                            -30.52200232
                         ],
                         [
-                            143.67212788,
-                            -31.58953758
+                            144.97086207,
+                            -30.51060633
                         ],
                         [
-                            143.73429556,
-                            -31.57834779
+                            144.98133132,
+                            -30.49668557
                         ],
                         [
-                            143.78340774,
-                            -31.61502699
+                            144.99626167,
+                            -30.48178334
                         ],
                         [
-                            144.04451115,
-                            -31.70517164
+                            145.01968507,
+                            -30.46491954
                         ],
                         [
-                            144.06810195,
-                            -31.6996672
+                            145.03005381,
+                            -30.44524341
                         ],
                         [
-                            144.07469456,
-                            -31.66970168
+                            145.05508285,
+                            -30.44140509
                         ],
                         [
-                            144.06750302,
-                            -31.63853747
+                            145.08582901,
+                            -30.41596528
                         ],
                         [
-                            144.03394175,
-                            -31.61396551
+                            145.08466493,
+                            -30.3950541
                         ],
                         [
-                            144.06031149,
-                            -31.604976
+                            145.0664581,
+                            -30.39505642
                         ],
                         [
-                            144.09087645,
-                            -31.58879479
+                            145.06523501,
+                            -30.37655082
                         ],
                         [
-                            144.08428409,
-                            -31.57980508
+                            145.07738005,
+                            -30.36137908
                         ],
                         [
-                            144.12743546,
-                            -31.42038861
+                            145.07935416,
+                            -30.34954737
                         ],
                         [
-                            144.15919894,
-                            -31.41978949
+                            145.09531867,
+                            -30.34365876
                         ],
                         [
-                            144.21373631,
-                            -31.4078036
+                            145.10203492,
+                            -30.3494733
                         ],
                         [
-                            144.29943814,
-                            -31.35027027
+                            145.11290323,
+                            -30.34923258
                         ],
                         [
-                            144.31142445,
-                            -31.33588687
+                            145.12327265,
+                            -30.35263042
                         ],
                         [
-                            144.28984954,
-                            -31.28914048
+                            145.13189059,
+                            -30.36006914
                         ],
                         [
-                            144.38806115,
-                            -31.27697328
+                            145.13555583,
+                            -30.36600999
                         ],
                         [
-                            144.38430571,
-                            -31.27209115
+                            145.12730334,
+                            -30.37620025
                         ],
                         [
-                            144.38024242,
-                            -31.26618082
+                            145.13626627,
+                            -30.38296096
                         ],
                         [
-                            144.37747201,
-                            -31.25842353
+                            145.14394175,
+                            -30.38509372
                         ],
                         [
-                            144.37968842,
-                            -31.25048157
+                            145.10406961,
+                            -30.22239619
                         ],
                         [
-                            144.37894967,
-                            -31.24494066
+                            145.21010963,
+                            -30.22661899
                         ],
                         [
-                            144.37026896,
-                            -31.23773743
+                            145.30116469,
+                            -30.23635344
                         ],
                         [
-                            144.37026899,
-                            -31.23145773
+                            145.31274263,
+                            -30.23427448
                         ],
                         [
-                            144.37248535,
-                            -31.23238123
+                            145.33592096,
+                            -30.21371549
                         ],
                         [
-                            144.37248558,
-                            -31.19470305
+                            145.35006146,
+                            -30.21428833
                         ],
                         [
-                            144.37488664,
-                            -31.19470306
+                            145.3846304,
+                            -30.19913311
                         ],
                         [
-                            144.37544077,
-                            -31.18916216
+                            145.43685474,
+                            -30.20391363
                         ],
                         [
-                            144.37765712,
-                            -31.19027035
+                            145.45773066,
+                            -30.24528595
                         ],
                         [
-                            144.38079695,
-                            -31.1947031
+                            145.47870174,
+                            -30.24954441
                         ],
                         [
-                            144.39723497,
-                            -31.19525729
+                            145.63700976,
+                            -30.10459736
                         ],
                         [
-                            144.40240652,
-                            -31.18990111
+                            145.71256258,
+                            -30.05415987
                         ],
                         [
-                            144.40259128,
-                            -31.17974278
+                            145.81987276,
+                            -29.96057663
                         ],
                         [
-                            144.41071801,
-                            -31.16810692
+                            146.00613625,
+                            -29.94840695
                         ],
                         [
-                            144.43048059,
-                            -31.16718355
+                            146.20644852,
+                            -29.91751921
                         ],
                         [
-                            144.43435919,
-                            -31.17290918
+                            146.22969104,
+                            -29.77543738
                         ],
                         [
-                            144.435098,
-                            -31.16976934
+                            146.27490622,
+                            -29.68566176
                         ],
                         [
-                            144.44285527,
-                            -31.17032348
+                            146.27421607,
+                            -29.6103734
                         ],
                         [
-                            144.4515361,
-                            -31.15721005
+                            146.33120414,
+                            -29.53980802
                         ],
                         [
-                            144.47111409,
-                            -31.13892517
+                            146.45616661,
+                            -29.46072571
                         ],
                         [
-                            144.46520385,
-                            -31.12969028
+                            146.56760001,
+                            -29.41661949
                         ],
                         [
-                            144.46483451,
-                            -31.11971665
+                            146.64058126,
+                            -29.31922467
                         ],
                         [
-                            144.53021723,
-                            -31.12027114
+                            146.69149144,
+                            -29.19619242
                         ],
                         [
-                            144.53040204,
-                            -31.10087796
+                            146.73553517,
+                            -29.10421435
                         ],
                         [
-                            144.5241224,
-                            -31.09219716
+                            146.74788779,
+                            -28.99500282
                         ],
                         [
-                            144.54019104,
-                            -31.09201256
+                            145.65325422,
+                            -28.9982199
                         ],
                         [
-                            144.53040222,
-                            -31.07261932
+                            145.21803019,
+                            -29.00110706
                         ],
                         [
-                            144.57647141,
-                            -31.07279086
+                            144.64208899,
+                            -28.99931696
                         ],
                         [
-                            144.59370165,
-                            -31.05361309
+                            144.63350592,
+                            -29.06685761
                         ],
                         [
-                            144.59801125,
-                            -31.03447136
+                            144.63127437,
+                            -29.0741849
                         ],
                         [
-                            144.60995299,
-                            -30.98138502
+                            144.60810004,
+                            -29.15024674
                         ],
                         [
-                            144.60995185,
-                            -30.98138535
+                            144.58509741,
+                            -29.20420364
                         ],
                         [
-                            144.60778187,
-                            -30.97889221
+                            144.58372412,
+                            -29.24195658
                         ],
                         [
-                            144.60538105,
-                            -30.97792266
+                            144.5682746,
+                            -29.26142686
                         ],
                         [
-                            144.60482697,
-                            -30.97159745
+                            144.52955049,
+                            -29.29023555
                         ],
                         [
-                            144.49879265,
-                            -30.85108382
+                            144.50895113,
+                            -29.3527972
                         ],
                         [
-                            144.39403617,
-                            -30.65977579
+                            144.50757784,
+                            -29.40006714
                         ],
                         [
-                            144.39403845,
-                            -30.65977356
+                            144.50036806,
+                            -29.45568588
                         ],
                         [
-                            144.39246156,
-                            -30.65819667
+                            144.47805208,
+                            -29.52143214
                         ],
                         [
-                            144.38288172,
-                            -30.65969612
+                            144.44406313,
+                            -29.55876895
                         ],
                         [
-                            144.37480134,
-                            -30.65861318
+                            144.40973085,
+                            -29.57668572
                         ],
                         [
-                            144.37055289,
-                            -30.6536983
+                            144.35823244,
+                            -29.6217622
                         ],
                         [
-                            144.36413857,
-                            -30.65153243
+                            144.34175295,
+                            -29.66622187
                         ],
                         [
-                            144.36063985,
-                            -30.65036619
+                            144.34037965,
+                            -29.77594412
                         ],
                         [
-                            144.33938247,
-                            -30.65230459
+                            144.30673403,
+                            -29.80454757
                         ],
                         [
-                            144.32343331,
-                            -30.62989879
+                            144.2814998,
+                            -29.8704231
                         ],
                         [
-                            144.31097828,
-                            -30.61943656
+                            144.25266069,
+                            -30.00326362
                         ],
                         [
-                            144.28905743,
-                            -30.61196354
-                        ],
-                        [
-                            144.25916536,
-                            -30.5980139
-                        ],
-                        [
-                            144.23126609,
-                            -30.61545094
-                        ],
-                        [
-                            144.1943992,
-                            -30.62242576
-                        ],
-                        [
-                            144.13710606,
-                            -30.62690957
-                        ],
-                        [
-                            144.1111996,
-                            -30.60399231
-                        ],
-                        [
-                            144.08748597,
-                            -30.55989883
+                            144.33591646,
+                            -30.27478631
                         ]
                     ]
                 ]
             },
             "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/e4c2fe8a-a068-4a07-b435-8a56776324a8",
-                "hw_identifier": "e4c2fe8a-a068-4a07-b435-8a56776324a8",
+                "hw_id": "https://hazardwatch.gov.au//alert/fb99530f-afa9-4dd5-b915-997f79d370af",
+                "hw_identifier": "fb99530f-afa9-4dd5-b915-997f79d370af",
                 "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-05T07:14:27-00:00",
+                "hw_sent": "2025-05-07T08:11:28-00:00",
                 "hw_status": "Actual",
                 "hw_msgType": "Update",
                 "hw_scope": "Public",
@@ -3348,16 +3347,16 @@
                 "hw_certainty": "Possible",
                 "hw_eventCode": "riverineflod",
                 "hw_senderName": "NSW State Emergency Service",
-                "hw_headline": "Tilpa and surrounds",
-                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>rising slowly</span> <span> moderate flooding </span> on the Darling River : </p> <ul> <li>Tilpa and surrounding areas</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>the Darling River at Tilpa is currently at 9.95 metres and rising slowly, above the minor flood level (9.00 m). <br /><br />The Darling River at Tilpa may exceed the moderate flood level (10.50 m) towards the end of this week from about Friday May 9. <br /><br />The river level may reach around 11.00 metres between Saturday May 10 and Saturday May 17, with moderate flooding. <br /><br />Peak predictions will be provided once upstream peaks have been observed.</span></p><p><span>Based on predictions from the Bureau of Meteorology, the following areas</span><span> may be</span><span> impacted by</span><span> dangerous floodwaters:</span></p><ul><li>Low lying rural properties and homesteads adjacent to the Darling River may become isolated by flood water</li><li>Curranyalpa Road closed</li><li>Nelyambo Bridge Road closed</li><li>West Tilpa Road impacted</li><li>Low-lying roads, bridges and causeways along the river and creeks</li><li>Unsealed roads in the area may close</li></ul></div>\n        </div>",
-                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>If you are likely to be isolated due to flooding, stock up on essential items now.</li> \n          <li>People working or camping along the river should monitor river heights and be prepared to relocate to higher ground.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n          <li>Gather your pets and companion animals for safe travel.</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li>\n          <li>If you become isolated, notify NSW SES by calling 132 500</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
+                "hw_headline": "Warrego and surrounds",
+                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>prolonged minor to</span> <span> moderate flooding </span> on the Warrego River: </p> <ul> <li>Rural homesteads and properties which are prone to isolation in the area of Bourke Shire in the Warrego River catchment.</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3></div><div><p><span>River levels continue to fall slowly along the Warrego River at Fords Bridge Bywash, where moderate flooding is likely to continue through to mid or late this week.<br /><br />No significant rainfall is forecast for the next few days.<br /><br />This will continue to isolate some rural properties and disrupt essential services. <br /><br />Current water levels in key areas indicate significant risk to road infrastructure, as well as agricultural land and livestock.<br /><br />Roads, bridges, causeways, low-lying areas may be impacted and unsealed roads may become impassable.<br /><br />If you need resupply:<br />Call NSW SES on 132 500 to request assistance. You will be given a reference number.<br />Contact the following stores to place your order, providing your SES reference number:<br />•\tKhans Supa IGA - Oxley St, Bourke, 02 6872 3264<br />•\tBourke Pharmacy - 32-36 Oxley St, Bourke 02 6872 2004<br />•\tNutri Ag Solutions Bourke - 60-62 Anson St, Bourke, 02 6872 2033<br /></span></p></div>\n        </div>",
+                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>People working or camping along the river should monitor river heights and be prepared to relocate to higher ground.</li> \n          <li>Farmers should consider moving pumps and farm equipment to higher ground.</li> \n          <li>Companion animals and livestock should be relocated to higher ground that will not become an island.</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>Listen to 2WEB Outback Radio 585AM and ABC Radio 657AM</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n          <li>If you are isolated and require resupply, contact NSW SES on 132 500</li>\n          <li>If you are a primary producer and need assistance with livestock management, please call the Agricultural and Animal Services hotline on 1800 814 647</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
                 "hw_web": "https://www.ses.nsw.gov.au",
-                "hw_AffectedLocation": "Tilpa and surrounds",
-                "hw_NextUpdateDate": "2025-05-07T05:00:00.000Z",
+                "hw_AffectedLocation": "Warrego and surrounds",
+                "hw_NextUpdateDate": "2025-05-13T05:00:00.000Z",
                 "hw_AustralianWarningSystem:WarningLevel": "Advice",
                 "hw_AustralianWarningSystem:CallToAction": "Stay informed",
-                "hw_title": "Tilpa and surrounds\n            flooding  - Stay informed",
-                "hw_date_modified": "2025-05-05T07:14:27.000Z",
+                "hw_title": "Warrego and surrounds\n            flooding  - Stay informed",
+                "hw_date_modified": "2025-05-07T08:11:28.000Z",
                 "hw_authors": [
                     {
                         "name": "cap-au@ses.nsw.gov.au"
@@ -3819,10 +3818,10 @@
                 ]
             },
             "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/bbc82574-9548-463a-b6d2-964acb0f1e9f",
-                "hw_identifier": "bbc82574-9548-463a-b6d2-964acb0f1e9f",
+                "hw_id": "https://hazardwatch.gov.au//alert/d2824306-bb9a-4e66-bd10-57ae69d7608d",
+                "hw_identifier": "d2824306-bb9a-4e66-bd10-57ae69d7608d",
                 "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-06T05:56:34-00:00",
+                "hw_sent": "2025-05-07T08:12:52-00:00",
                 "hw_status": "Actual",
                 "hw_msgType": "Update",
                 "hw_scope": "Public",
@@ -3843,121 +3842,11 @@
                 "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>Consider the consequences of road and bridge closures. Damage to roads, bridges or buildings caused by flooding and landslip may still exist in your area. Consider the need to make alternate arrangements for work, children, and travel.</li> \n          <li>Be aware of road hazards including mud and debris.</li> \n          <li>Remain vigilant as there could still be water in low lying areas.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>If you are isolated and require resupply, contact NSW SES on <a href=\"tel:132 500\">132 500</a></li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n        <li>2WEB Bourke</li>\n                <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n          <li>Contact your Local Land Services Office for rural animal and livestock assistance at <a href=\"https://lls.nsw.gov.au\" target=\"_blank\">lls.nsw.gov.au </a> or call <a href=\"tel:1300 795 299\">1300 795 299</a></li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
                 "hw_web": "https://www.ses.nsw.gov.au",
                 "hw_AffectedLocation": "Wanaaring and surrounds",
-                "hw_NextUpdateDate": "2025-05-07T05:00:00.000Z",
+                "hw_NextUpdateDate": "2025-05-13T05:00:00.000Z",
                 "hw_AustralianWarningSystem:WarningLevel": "Advice",
                 "hw_AustralianWarningSystem:CallToAction": "Monitor conditions",
                 "hw_title": "Wanaaring and surrounds\n            flooding  - Monitor conditions",
-                "hw_date_modified": "2025-05-06T05:56:34.000Z",
-                "hw_authors": [
-                    {
-                        "name": "cap-au@ses.nsw.gov.au"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            148.15392651,
-                            -36.55850744
-                        ],
-                        [
-                            148.20679821,
-                            -36.57477638
-                        ],
-                        [
-                            148.21744121,
-                            -36.64890825
-                        ],
-                        [
-                            148.18654217,
-                            -36.69269245
-                        ],
-                        [
-                            148.12920727,
-                            -36.7108597
-                        ],
-                        [
-                            148.11959423,
-                            -36.78678533
-                        ],
-                        [
-                            148.19443859,
-                            -36.80465543
-                        ],
-                        [
-                            148.23701061,
-                            -36.80410564
-                        ],
-                        [
-                            148.34481396,
-                            -36.84752667
-                        ],
-                        [
-                            148.47390331,
-                            -36.60813076
-                        ],
-                        [
-                            148.56454052,
-                            -36.38291644
-                        ],
-                        [
-                            148.5823933,
-                            -36.26563496
-                        ],
-                        [
-                            148.55492748,
-                            -36.18697984
-                        ],
-                        [
-                            148.49724926,
-                            -36.17256963
-                        ],
-                        [
-                            148.42858471,
-                            -36.18088353
-                        ],
-                        [
-                            148.15392651,
-                            -36.55850744
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/0a92ce7c-e0f5-4de3-9221-a575148b1007",
-                "hw_identifier": "0a92ce7c-e0f5-4de3-9221-a575148b1007",
-                "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-07T00:44:10-00:00",
-                "hw_status": "Actual",
-                "hw_msgType": "Update",
-                "hw_scope": "Public",
-                "hw_code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
-                "hw_language": "en-AU",
-                "hw_category": [
-                    "Met"
-                ],
-                "hw_event": "Storm",
-                "hw_responseType": "Monitor",
-                "hw_urgency": "Expected",
-                "hw_severity": "Minor",
-                "hw_certainty": "Possible",
-                "hw_eventCode": "storm",
-                "hw_senderName": "NSW State Emergency Service",
-                "hw_headline": "Snowy Mountains",
-                "hw_description": "<div>\n          <div>         <p> The NSW SES advises people in the following area(s) to <strong>MONITOR CONDITIONS</strong> for forecast damaging winds: </p> <ul> <li>Thredbo Top Station</li> <li>Alpine areas above 1900 metres</li> </ul>     </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>strong northwesterly winds are possible ahead of an approaching cold front that will slide over the far southern parts of the state during the day.<br /><br /> DAMAGING WINDS averaging 80 to 90 km/h with peak gusts of around 110 km/h are possible over alpine areas above 1900 metres.<br /><br /> Winds are expected to ease below warning thresholds during this afternoon.<br /><br /> Locations which may be affected include Thredbo Top Station.</span></p><p> This event may change quickly. NSW SES will monitor the situation and update warnings if the situation changes.</p></div>\n        </div>",
-                "hw_instruction": "<div>\n    <h3>What you need to do:</h3>\n    <ul>\n            <li>Avoid unnecessary travel, move indoors, bring children and pets with you.</li> \n            <li>Park your car under secure cover and away from trees, powerlines and drains.</li> \n            <li>If safe to do so, secure or put away items, such as outdoor furniture, trampolines and roofing iron that could blow around in strong winds.</li> \n            <li>Grab your emergency kit in case you lose power or need to leave your home.</li> \n    </ul>\n  \n  \n    <hr />\n  \n    <h3>For more information:</h3>\n    <ul>\n            <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n            <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n            <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n            <li>Check latest weather and warnings at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n            <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n            <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n            <li>Find more information on power outages at <a href=\"https://www.energy.nsw.gov.au/households/guides-and-helpful-advice/electricity-supply-disruptions/what-do-during-electricity\" target=\"_blank\">www.energy.nsw.gov.au/households/guides-and-helpful-advice/electricity-supply-disruptions/what-do-during-electricity</a></li>\n    </ul>\n  \n    <hr />\n  \n        <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n        <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n  \n  </div>",
-                "hw_web": "https://www.ses.nsw.gov.au",
-                "hw_AffectedLocation": "Snowy Mountains",
-                "hw_NextUpdateDate": "2025-05-07T07:30:00.000Z",
-                "hw_AustralianWarningSystem:WarningLevel": "Advice",
-                "hw_AustralianWarningSystem:CallToAction": "Monitor conditions",
-                "hw_title": "Snowy Mountains\n              severe weather  - Monitor conditions",
-                "hw_date_modified": "2025-05-07T00:44:10.000Z",
+                "hw_date_modified": "2025-05-07T08:12:52.000Z",
                 "hw_authors": [
                     {
                         "name": "cap-au@ses.nsw.gov.au"
