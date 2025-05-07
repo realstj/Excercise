@@ -3929,10 +3929,10 @@
                 ]
             },
             "properties": {
-                "hw_id": "https://hazardwatch.gov.au//alert/0ebc744d-b9e1-454f-8265-0e7c0eb2b235",
-                "hw_identifier": "0ebc744d-b9e1-454f-8265-0e7c0eb2b235",
+                "hw_id": "https://hazardwatch.gov.au//alert/0a92ce7c-e0f5-4de3-9221-a575148b1007",
+                "hw_identifier": "0a92ce7c-e0f5-4de3-9221-a575148b1007",
                 "hw_sender": "cap-au@ses.nsw.gov.au",
-                "hw_sent": "2025-05-06T12:55:21-00:00",
+                "hw_sent": "2025-05-07T00:44:10-00:00",
                 "hw_status": "Actual",
                 "hw_msgType": "Update",
                 "hw_scope": "Public",
@@ -3949,15 +3949,15 @@
                 "hw_eventCode": "storm",
                 "hw_senderName": "NSW State Emergency Service",
                 "hw_headline": "Snowy Mountains",
-                "hw_description": "<div>\n          <div>         <p> The NSW SES advises people in the following area(s) to <strong>MONITOR CONDITIONS</strong> for forecast damaging winds: </p> <ul> <li>Thredbo Top Station</li> <li>Alpine areas above 1900 metres</li> </ul>     </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>strengthening northwesterly winds are expected from this evening ahead of an approaching cold front, easing during early Wednesday afternoon.<br /><br /> DAMAGING WINDS averaging 80 to 90 km/h with peaks gusts of around 110 km/h are possible over alpine areas above 1900 metres from this evening and into Wednesday morning.<br /><br /> Damaging winds are expected to ease below thresholds during early Wednesday afternoon.<br /><br /> Locations which may be affected include Thredbo Top Station.</span></p><p> This event may change quickly. NSW SES will monitor the situation and update warnings if the situation changes.</p></div>\n        </div>",
+                "hw_description": "<div>\n          <div>         <p> The NSW SES advises people in the following area(s) to <strong>MONITOR CONDITIONS</strong> for forecast damaging winds: </p> <ul> <li>Thredbo Top Station</li> <li>Alpine areas above 1900 metres</li> </ul>     </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3><p> The Bureau of Meteorology advises <span>strong northwesterly winds are possible ahead of an approaching cold front that will slide over the far southern parts of the state during the day.<br /><br /> DAMAGING WINDS averaging 80 to 90 km/h with peak gusts of around 110 km/h are possible over alpine areas above 1900 metres.<br /><br /> Winds are expected to ease below warning thresholds during this afternoon.<br /><br /> Locations which may be affected include Thredbo Top Station.</span></p><p> This event may change quickly. NSW SES will monitor the situation and update warnings if the situation changes.</p></div>\n        </div>",
                 "hw_instruction": "<div>\n    <h3>What you need to do:</h3>\n    <ul>\n            <li>Avoid unnecessary travel, move indoors, bring children and pets with you.</li> \n            <li>Park your car under secure cover and away from trees, powerlines and drains.</li> \n            <li>If safe to do so, secure or put away items, such as outdoor furniture, trampolines and roofing iron that could blow around in strong winds.</li> \n            <li>Grab your emergency kit in case you lose power or need to leave your home.</li> \n    </ul>\n  \n  \n    <hr />\n  \n    <h3>For more information:</h3>\n    <ul>\n            <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n            <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n            <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n            <li>Check latest weather and warnings at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n            <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n            <li>Check disruptions to public transport at <a href=\"https://www.transportnsw.info/alerts\" target=\"_blank\">www.transportnsw.info/alerts</a> or call the Transport Infoline on <a href=\"tel:131 500\">131 500</a></li>\n            <li>Find more information on power outages at <a href=\"https://www.energy.nsw.gov.au/households/guides-and-helpful-advice/electricity-supply-disruptions/what-do-during-electricity\" target=\"_blank\">www.energy.nsw.gov.au/households/guides-and-helpful-advice/electricity-supply-disruptions/what-do-during-electricity</a></li>\n    </ul>\n  \n    <hr />\n  \n        <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n        <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n  \n  </div>",
                 "hw_web": "https://www.ses.nsw.gov.au",
                 "hw_AffectedLocation": "Snowy Mountains",
-                "hw_NextUpdateDate": "2025-05-06T19:30:00.000Z",
+                "hw_NextUpdateDate": "2025-05-07T07:30:00.000Z",
                 "hw_AustralianWarningSystem:WarningLevel": "Advice",
                 "hw_AustralianWarningSystem:CallToAction": "Monitor conditions",
                 "hw_title": "Snowy Mountains\n              severe weather  - Monitor conditions",
-                "hw_date_modified": "2025-05-06T12:55:21.000Z",
+                "hw_date_modified": "2025-05-07T00:44:10.000Z",
                 "hw_authors": [
                     {
                         "name": "cap-au@ses.nsw.gov.au"
