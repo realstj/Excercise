@@ -328,6 +328,162 @@
         {
             "type": "Feature",
             "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                151.66956118,
+                                -32.95260571
+                            ],
+                            [
+                                151.66953436,
+                                -32.9526012
+                            ],
+                            [
+                                151.66867605,
+                                -32.95243915
+                            ],
+                            [
+                                151.66866532,
+                                -32.95267323
+                            ],
+                            [
+                                151.66907302,
+                                -32.9529073
+                            ],
+                            [
+                                151.66906229,
+                                -32.95331242
+                            ],
+                            [
+                                151.66930905,
+                                -32.95399663
+                            ],
+                            [
+                                151.66983476,
+                                -32.95418568
+                            ],
+                            [
+                                151.67028001,
+                                -32.95373105
+                            ],
+                            [
+                                151.66962555,
+                                -32.95303784
+                            ],
+                            [
+                                151.66948608,
+                                -32.95280377
+                            ],
+                            [
+                                151.66956118,
+                                -32.95260571
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                151.6695588,
+                                -32.95258435
+                            ],
+                            [
+                                151.66959098,
+                                -32.95248982
+                            ],
+                            [
+                                151.66996113,
+                                -32.95235028
+                            ],
+                            [
+                                151.66995576,
+                                -32.95220623
+                            ],
+                            [
+                                151.66989675,
+                                -32.95196315
+                            ],
+                            [
+                                151.66936568,
+                                -32.95176509
+                            ],
+                            [
+                                151.66922084,
+                                -32.95157153
+                            ],
+                            [
+                                151.66903308,
+                                -32.95145899
+                            ],
+                            [
+                                151.66892043,
+                                -32.95143649
+                            ],
+                            [
+                                151.66877023,
+                                -32.95155352
+                            ],
+                            [
+                                151.66862539,
+                                -32.95228276
+                            ],
+                            [
+                                151.66865221,
+                                -32.9524313
+                            ],
+                            [
+                                151.66955343,
+                                -32.95260235
+                            ],
+                            [
+                                151.6695588,
+                                -32.95258435
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "hw_id": "https://hazardwatch.gov.au//alert/0a224d85-6494-4b0e-9cad-a77306ad1a3b",
+                "hw_identifier": "0a224d85-6494-4b0e-9cad-a77306ad1a3b",
+                "hw_sender": "cap-au@ses.nsw.gov.au",
+                "hw_sent": "2025-05-15T03:21:05-00:00",
+                "hw_status": "Actual",
+                "hw_msgType": "Alert",
+                "hw_scope": "Public",
+                "hw_code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
+                "hw_language": "en-AU",
+                "hw_category": [
+                    "Met"
+                ],
+                "hw_event": "Riverine Flood",
+                "hw_responseType": "Monitor",
+                "hw_urgency": "Future",
+                "hw_severity": "Minor",
+                "hw_certainty": "Possible",
+                "hw_eventCode": "riverineflod",
+                "hw_senderName": "NSW State Emergency Service",
+                "hw_headline": "Parts of South Cardiff, Winding Creek",
+                "hw_description": "<div>\n          <div>          <p> The NSW SES advises people in the following area(s) to <strong>STAY INFORMED</strong> about predicted <span>possible</span> <span> flooding </span> on the Winding Creek: </p> <ul> <li>Low lying streets adjacent to Winding Creek.</li> </ul> <p> You should stay informed by monitoring warnings issued by NSW SES on their website and Facebook page, listening to your local ABC radio station, and checking the latest weather information from the Bureau of Meteorology online. </p>  </div>\n          \n          \n          <hr /><div><h3>What are we expecting?</h3></div><div><p><span>People in homes and properties adjacent to Winding Creek need to be aware of possible rises in the catchment that could happen quickly from sudden high volume rain bands.</span></p></div>\n        </div>",
+                "hw_instruction": "<div>\n  <h3>What you need to do:</h3>\n  <ul>\n          <li>If you have a Home or Business Emergency Plan, follow it. Otherwise, have a conversation and plan for what you will do and take with you if you need to evacuate.</li> \n          <li>Consider the consequences of road and bridge closures and water over roads and make alternate arrangements for work, children, and travel.</li> \n          <li>Obey all signs about road closures and instructions from emergency services.</li> \n          <li>Never drive, walk, ride through, play or swim in floodwater - it is dangerous, toxic, and may void your car insurance. If it's flooded, forget it. Fines may apply.</li> \n          <li>Avoid storm drains and pipes, ditches, ravines, creeks, and rivers.</li> \n          <li>People in areas likely to be impacted by flooding should raise their assets, including waste and chemical containers above expected flood heights.</li> \n          <li>Share this information with family, friends, and neighbours and help others prepare where possible.</li> \n          <li>If you are likely to be isolated due to flooding, stock up on essential items now.</li> \n  </ul>\n\n\n\n  <hr />\n\n  <h3>For more information:</h3>\n  <ul>\n          <li>Listen to your local ABC radio station which can be found at <a href=\"https://reception.abc.net.au\" target=\"_blank\">reception.abc.net.au</a></li>\n          <li>Download the Hazards Near Me app and set your watch zones to get warning information for your areas.</li>\n          <li>Follow us on social media <a href=\"https://facebook.com/NSW.SES/\" target=\"_blank\">@NSWSES</a> or visit our website at <a href=\"https://www.ses.nsw.gov.au\" target=\"_blank\">www.ses.nsw.gov.au</a></li>\n          <li>Learn about your risk at <a href=\"https://www.ses.nsw.gov.au/knowyourrisk\" target=\"_blank\">www.ses.nsw.gov.au/knowyourrisk</a></li>\n          <li>Check latest weather, warnings, rainfall and river heights at <a href=\"http://www.bom.gov.au/nsw/\" target=\"_blank\">www.bom.gov.au/nsw/</a></li>\n          <li>Check road closures at <a href=\"https://www.livetraffic.com.au\" target=\"_blank\">www.livetraffic.com.au</a> or <a href=\"tel:132 701\">132 701</a> or your local Council.</li>\n  </ul>\n\n  <hr />\n\n      <p></p><h4>For emergency assistance during a flood, storm or tsunami, call the NSW SES on <a href=\"tel:132 500\" target=\"_parent\">132 500</a>. In a life-threatening emergency, call Triple Zero (<a href=\"tel:000\" target=\"_parent\">000</a>).</h4><p></p>\n      <p>Media enquiries: <a href=\"mailto:media@ses.nsw.gov.au\" target=\"_blank\">media@ses.nsw.gov.au</a> or call <a href=\"tel:1800 067 234\">1800 067 234</a></p>\n\n</div>",
+                "hw_web": "https://www.ses.nsw.gov.au",
+                "hw_AffectedLocation": "Parts of South Cardiff, Winding Creek",
+                "hw_NextUpdateDate": "2025-05-16T02:30:00.000Z",
+                "hw_AustralianWarningSystem:WarningLevel": "Advice",
+                "hw_AustralianWarningSystem:CallToAction": "Stay informed",
+                "hw_title": "Parts of South Cardiff, Winding Creek\n            flooding  - Stay informed",
+                "hw_date_modified": "2025-05-15T03:21:05.000Z",
+                "hw_authors": [
+                    {
+                        "name": "cap-au@ses.nsw.gov.au"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
                 "type": "Polygon",
                 "coordinates": [
                     [
